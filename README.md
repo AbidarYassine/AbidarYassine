@@ -1,7 +1,7 @@
 ### Hi there, I'm Abidar - Yassine 👋 ![](https://komarev.com/ghpvc/?username=AbidarYassine&color=&color=D8582C)</br>
 <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbidarYassine&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 I'm a FullStack Developper Spring | Angular | React </br>
-- 💕 I am currently an enginer student Of Information Systems  Engineering And Network </br>
+- 💕 I am currently IT Consultant at @Octo Technology </br>
 - 😍 Passionate about web & mobile & AI development. </br>
 - 📫 How to reach me: abidar.yassine.dev@gmail.com 
 </div>  
