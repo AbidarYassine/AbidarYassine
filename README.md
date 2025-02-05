@@ -2,8 +2,8 @@
 <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbidarYassine&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 I'm a FullStack Developper Spring | Angular | React </br>
 - 💕 I am currently IT Consultant at @Octo Technology </br>
-- 😍 Passionate about web & mobile & AI development. </br>
-- 📫 How to reach me: abidar.yassine.dev@gmail.com 
+- 😍 Passionate about Backend & frontend & DevOps. </br>
+- 📫 How to reach me: yassinabidar201@gmail.com
 </div>  
 
 ### Connect with me:
